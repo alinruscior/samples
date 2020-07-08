@@ -1,0 +1,9 @@
+{"EventTime":"2020-01-23T11:11:01.9904946+02:00","Severity":"DEBUG","SourceName":"MyApplication.exe","Logger":"MyApplication.MyService","Message":"This is a test debug message."}
+{"EventTime":"2020-01-23T11:11:01.9924908+02:00","Severity":"DEBUG","SourceName":"MyApplication.exe","Logger":"MyApplication.MyService","Message":"This is a test debug message."}
+{"EventTime":"2020-01-23T11:11:01.9935655+02:00","Severity":"DEBUG","SourceName":"MyApplication.exe","Logger":"MyApplication.MyService","Message":"This is a test debug message."}
+{"EventTime":"2020-01-23T11:11:01.9944854+02:00","Severity":"DEBUG","SourceName":"MyApplication.exe","Logger":"MyApplication.MyService","Message":"This is a test debug message."}
+{"EventTime":"2020-01-23T11:11:11.9968485+02:00","Severity":"DEBUG","SourceName":"MyApplication.exe","Logger":"MyApplication.MyService","Message":"This is a test debug message."}
+{"EventTime":"2020-01-23T11:11:11.9988417+02:00","Severity":"ERROR","SourceName":"MyApplication.exe","Logger":"MyApplication.MyService","Message":"This is a test error message."}
+{"EventTime":"2020-01-23T11:11:12.0008358+02:00","Severity":"INFO","SourceName":"MyApplication.exe","Logger":"MyApplication.MyService","Message":"This is a test info message."}
+{"EventTime":"2020-01-23T11:11:12.0028339+02:00","Severity":"ERROR","SourceName":"MyApplication.exe","Logger":"MyApplication.MyService","Message":"This is a test error message."}
+{"EventTime":"2020-01-23T11:11:12.0038310+02:00","Severity":"WARNING","SourceName":"MyApplication.exe","Logger":"MyApplication.MyService","Message":"This is a test warning message."}
